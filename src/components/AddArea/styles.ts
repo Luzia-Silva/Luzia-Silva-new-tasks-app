@@ -17,6 +17,6 @@ export const Container = styled.div`
         outline: 0;
         color: #fff;
         font-size: 18px;
-        flex:1;
+        
     }
 `;
