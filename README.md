@@ -1,2 +1,1 @@
-## new-tasks-app
-Task Management./Development in ReactJs/Typescript
+## Gerenciador de Tarefas para Estudos 😛🎈
